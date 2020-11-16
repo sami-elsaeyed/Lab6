@@ -1,0 +1,111 @@
+STUDENT NUMBER ONE
+C:\Users\Sami Elsaeyed\doc>java Student.java
+Please enter Homework grade
+5
+Please enter Homework grade
+5
+Please enter Homework grade
+5
+Please enter Homework grade
+5
+Please enter Homework grade
+5
+Please enter Homework grade
+5
+Please enter Homework grade
+5
+Please enter Homework grade
+5
+Thats all your homework assignemnts!
+Please enter Lab grade
+-1
+Please enter Exam grade
+10
+Please enter Exam grade
+10
+Thats all your Exams!
+If you ave taken the final enter your grade if not enter '-1'
+-1
+You need at least 10 points in your next 6 assignments and final exam to get a C or better.
+You need at least 20 points in your next 6 assignments and final exam to get a B or better.
+You need at least 30 points in your next 6 assignments and final exam to get a A .
+=================
+STUDENT NUMBER 2
+=================
+C:\Users\Sami Elsaeyed\doc>java Student.java
+Please enter Homework grade
+6
+Please enter Homework grade
+6
+Please enter Homework grade
+6
+Please enter Homework grade
+6
+Please enter Homework grade
+6
+Please enter Homework grade
+6
+Please enter Homework grade
+6
+Please enter Homework grade
+6
+Thats all your homework assignemnts!
+Please enter Lab grade
+2
+Please enter Lab grade
+2
+Please enter Lab grade
+2
+Please enter Lab grade
+2
+Please enter Lab grade
+2
+Please enter Lab grade
+2
+Thats all your Labs!
+Please enter Exam grade
+10
+Please enter Exam grade
+10
+Thats all your Exams!
+If you ave taken the final enter your grade if not enter '-1'
+20
+Your grade is 100 or an A
+===================
+STUDENT NUMBER 3
+===================
+C:\Users\Sami Elsaeyed\doc>java Student.java
+Please enter Homework grade
+6
+Please enter Homework grade
+6
+Please enter Homework grade
+6
+Please enter Homework grade
+6
+Please enter Homework grade
+-1
+Please enter Lab grade
+2
+Please enter Lab grade
+2
+Please enter Lab grade
+2
+Please enter Lab grade
+2
+Please enter Lab grade
+-2
+Enter a valid Lab grade
+Please enter Lab grade
+-1
+Please enter Exam grade
+10
+Please enter Exam grade
+-1
+If you ave taken the final enter your grade if not enter '-1'
+-1
+You need at least 18 points in your next 7 assignments and final exam to get a D or better.
+You need at least 28 points in your next 7 assignments and final exam to get a C or better.
+You need at least 38 points in your next 7 assignments and final exam to get a B or better.
+You need at least 48 points in your next 7 assignments and final exam to get a A .
+ 
